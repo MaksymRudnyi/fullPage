@@ -1,0 +1,22 @@
+.section {
+    text-align: center;
+    font-size: 3em;
+}
+
+.fp-watermark {
+    display: none;
+}
+
+#section3 {
+    background-image: url('https://raw.githubusercontent.com/alvarotrigo/fullPage.js/master/examples/imgs/bg3.jpg');
+}
+
+#section4 {
+    background-image: url("https://raw.githubusercontent.com/alvarotrigo/fullPage.js/master/examples/imgs/bg1.jpg");
+}
+
+.section {
+    background-position: center center;
+    background-repeat: none;
+    background-size: cover;
+}
